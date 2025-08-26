@@ -15,6 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
    messageBtn.addEventListener('click', () => {
-    alert('Seja bem vindo ao meu currículo!! 🚀🚀🚀');
+    alert('Obrigado(a) pelo seu interesse! Atualmente estou buscando novas oportunidades para entrar em uma equipe de desenvolvimento, porém aberto também a possibilidade de prestar Suporte técnico ou áreas relacionadas (Onde já tenho experiência!), e adoraria saber como posso agregar valor ao seu time."');
   });
 });
